@@ -1,4 +1,4 @@
-mypythonprictice
+陈明的python练习
 ================
 
-mypythonprictice
+只是练习
