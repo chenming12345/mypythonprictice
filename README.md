@@ -1,4 +1,4 @@
-陈明的python练习
-================
+Mr chan's  python practice
+------------
 
-只是练习
+just for practice
